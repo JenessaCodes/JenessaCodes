@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@NaniPeters](www.github.com/NaniPeters)
+- 👋 Hi, I’m [@NaniPeters](https://www.github.com/NaniPeters)
 - 👀 I’m interested in Coding Development Environment.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on nothing at the moment.
