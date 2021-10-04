@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@NaniPeters](https://www.github.com/NaniPeters)
+- 👋 Hi, I’m [@JenessaCodes](https://www.github.com/JenessaCodes)
 - 👀 I’m interested in Full Stack Engineering
 - 🌱 I’m currently learning Intermediate CSS
 
