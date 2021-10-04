@@ -1,7 +1,6 @@
 - 👋 Hi, I’m [@NaniPeters](https://www.github.com/NaniPeters)
-- 👀 I’m interested in Coding Development Environment.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 👀 I’m interested in Full Stack Engineering
+- 🌱 I’m currently learning Intermediate CSS
 
 <!---
 NaniPeters/NaniPeters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
